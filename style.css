@@ -253,7 +253,7 @@
   font-size: 16px;
   font-weight: 400;
   line-height: 26px;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }
 .current-target-content a {
   color: rgb(13, 19, 33);
@@ -269,4 +269,73 @@
 }
 .js-degin {
   background: rgba(255, 223, 0, 0.05);
+}
+
+/* next-terget-container style */
+
+.next-target-container {
+  width: 1140px;
+  height: 871px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.next-target-content {
+  width: 946px;
+  height: 115px;
+  margin: 0 auto;
+  text-align: center;
+}
+.next-target-content h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.next-target-content p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.next-target-skills-image {
+  margin-top: 20px;
+}
+.next-target-skills-parent {
+  display: flex;
+  flex-direction: column;
+  margin-top: 60px;
+}
+.next-target-skills-child {
+  border: 1px solid rgba(13, 19, 33, 0.15);
+  border-radius: 16px;
+  background: rgb(255, 255, 255);
+  margin-bottom: 50px;
+  padding: 25px;
+  display: flex;
+}
+.next-target-skills-content {
+  margin-left: 50px;
+}
+.next-target-skills-content h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  margin-bottom: 8px;
+}
+.next-target-skills-content p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 15px;
+}
+.next-target-skills-content a {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
 }
