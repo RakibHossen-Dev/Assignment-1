@@ -196,3 +196,77 @@
 .inspiration-video-child .video-iframe {
   border-radius: 16px;
 }
+
+/* target section style */
+.target-container {
+  width: 1140px;
+  height: 463px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.target-content {
+  width: 852px;
+  height: 115px;
+  margin: 0 auto;
+  text-align: center;
+}
+.target-content h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.target-content p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 48px;
+}
+.current-target-container {
+  display: flex;
+  gap: 10px;
+}
+.current-target-content {
+  width: 364px;
+  height: 300px;
+  margin: 0 auto;
+  margin-top: 48px;
+  padding: 25px;
+  border-radius: 16px;
+}
+.current-target-content img {
+  margin: 20px 0;
+}
+.current-target-content h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 24px;
+  font-weight: 800;
+  margin-bottom: 15px;
+}
+.current-target-content p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+  margin-bottom: 20px;
+}
+.current-target-content a {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 700;
+}
+.html-degin {
+  background: rgba(255, 76, 30, 0.05);
+}
+.css-degin {
+  background: rgba(0, 76, 232, 0.05);
+}
+.js-degin {
+  background: rgba(255, 223, 0, 0.05);
+}
