@@ -151,3 +151,48 @@
   line-height: 26px;
 }
 /* development section style ends here */
+
+/* Inspiration  section style */
+
+.inspiration-container {
+  width: 1140px;
+  height: 777px;
+  margin: 0 auto;
+  margin-top: 100px;
+}
+.inspiration-content {
+  width: 852px;
+  height: 115px;
+  margin: 0 auto;
+  text-align: center;
+}
+.inspiration-content h3 {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 32px;
+  font-weight: 800;
+  margin-bottom: 24px;
+}
+.inspiration-content p {
+  color: rgb(13, 19, 33);
+  font-family: Azeret Mono;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 26px;
+}
+.inspiration-video {
+  width: 1140px;
+  height: 614px;
+  margin: 0 auto;
+  margin-top: 24px;
+  border-radius: 16px;
+}
+.inspiration-video-child {
+  width: 1076px;
+  padding-top: 30px;
+  height: 550px;
+  margin: 0 auto;
+}
+.inspiration-video-child .video-iframe {
+  border-radius: 16px;
+}
